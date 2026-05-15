@@ -1,0 +1,22 @@
+[
+  { "poleId": "VIL-001", "latitude": 20.5937, "longitude": 78.9629, "streetName": "Bazaar Street", "status": "WORKING" },
+  { "poleId": "VIL-002", "latitude": 20.5942, "longitude": 78.9635, "streetName": "Bazaar Street", "status": "WORKING" },
+  { "poleId": "VIL-003", "latitude": 20.5928, "longitude": 78.9621, "streetName": "Temple Road", "status": "FUSED" },
+  { "poleId": "VIL-004", "latitude": 20.5931, "longitude": 78.9645, "streetName": "Temple Road", "status": "WORKING" },
+  { "poleId": "VIL-005", "latitude": 20.5955, "longitude": 78.9628, "streetName": "School Lane", "status": "BURNING_DAY" },
+  { "poleId": "VIL-006", "latitude": 20.5948, "longitude": 78.9615, "streetName": "School Lane", "status": "WORKING" },
+  { "poleId": "VIL-007", "latitude": 20.5915, "longitude": 78.9632, "streetName": "Panchayat Office Road", "status": "WORKING" },
+  { "poleId": "VIL-008", "latitude": 20.5922, "longitude": 78.9652, "streetName": "Panchayat Office Road", "status": "UNKNOWN" },
+  { "poleId": "VIL-009", "latitude": 20.5962, "longitude": 78.9638, "streetName": "Hospital Road", "status": "WORKING" },
+  { "poleId": "VIL-010", "latitude": 20.5950, "longitude": 78.9658, "streetName": "Hospital Road", "status": "FUSED" },
+  { "poleId": "VIL-011", "latitude": 20.5975, "longitude": 78.9622, "streetName": "Station Road", "status": "WORKING" },
+  { "poleId": "VIL-012", "latitude": 20.5968, "longitude": 78.9605, "streetName": "Station Road", "status": "WORKING" },
+  { "poleId": "VIL-013", "latitude": 20.5905, "longitude": 78.9612, "streetName": "South Gate", "status": "WORKING" },
+  { "poleId": "VIL-014", "latitude": 20.5898, "longitude": 78.9628, "streetName": "South Gate", "status": "BURNING_DAY" },
+  { "poleId": "VIL-015", "latitude": 20.5982, "longitude": 78.9642, "streetName": "North End", "status": "WORKING" },
+  { "poleId": "VIL-016", "latitude": 20.5995, "longitude": 78.9655, "streetName": "North End", "status": "WORKING" },
+  { "poleId": "VIL-017", "latitude": 20.5940, "longitude": 78.9675, "streetName": "East Cross", "status": "FUSED" },
+  { "poleId": "VIL-018", "latitude": 20.5930, "longitude": 78.9688, "streetName": "East Cross", "status": "WORKING" },
+  { "poleId": "VIL-019", "latitude": 20.5920, "longitude": 78.9602, "streetName": "West Cross", "status": "WORKING" },
+  { "poleId": "VIL-020", "latitude": 20.5910, "longitude": 78.9588, "streetName": "West Cross", "status": "WORKING" }
+]
